@@ -1,28 +1,28 @@
 <div align="center">
 
-# Salut, moi c'est Pierre 👋
+# Salut, moi c'est Pierre
 
-### 🎓 Étudiant en BTS SIO &nbsp;•&nbsp; 🤖 Passionné d'IA &nbsp;•&nbsp; 📍 Var, France
+### Étudiant en BTS SIO &nbsp;•&nbsp; Passionné d'IA &nbsp;•&nbsp; Var, France
 
 </div>
 
 <br/>
 
-### 🌟 À propos de moi
+### À propos de moi
 
 Bienvenue sur mon profil ! 
 
 Je ne suis pas développeur de métier : je suis actuellement en **BTS SIO**, mais je suis passionné par l'intelligence artificielle et j'aimerais découvrir tout ce qu'on peut accomplir avec pour **aider d'autres personnes**. 
 
-J'adore suivre les dernières innovations, explorer de nouveaux cas d'usage et imaginer des projets interactifs, pourquoi pas ancrés dans le **Var en France** ☀️ !
+J'adore suivre les dernières innovations, explorer de nouveaux cas d'usage et imaginer des projets interactifs, pourquoi pas ancrés dans le **Var en France** !
 
 ---
 
-### 🤖 Ma Galaxie d'IA & Outils du quotidien
+### Outils IA & Technologies du quotidien
 
 *Cliquez sur un outil pour y accéder directement :*
 
-#### 💬 Modèles & Assistants
+#### Modèles & Assistants
 <p align="center">
   <a href="https://gemini.google.com" target="_blank"><img src="assets/badges/gemini.svg" height="30" alt="Google Gemini"/></a>&nbsp;
   <a href="https://chatgpt.com" target="_blank"><img src="assets/badges/chatgpt.svg" height="30" alt="ChatGPT"/></a>&nbsp;
@@ -35,7 +35,7 @@ J'adore suivre les dernières innovations, explorer de nouveaux cas d'usage et i
 
 <br/>
 
-#### ⚡ Studios, Création & Environnements IA
+#### Studios, Création & Environnements IA
 <p align="center">
   <a href="https://antigravity.google" target="_blank"><img src="assets/badges/antigravity.svg" height="30" alt="Google Antigravity"/></a>&nbsp;
   <a href="https://aistudio.google.com" target="_blank"><img src="assets/badges/aistudio.svg" height="30" alt="Google AI Studio"/></a>&nbsp;
@@ -47,6 +47,6 @@ J'adore suivre les dernières innovations, explorer de nouveaux cas d'usage et i
 ---
 
 <div align="center">
-  <h3>🚀 Projets à venir</h3>
-  <p><i>De nouvelles créations et expérimentations interactives arrivent très bientôt ici !</i></p>
+  <h3>Projets à venir</h3>
+  <p><i>De nouvelles créations et expérimentations interactives arrivent très bientôt ici.</i></p>
 </div>
