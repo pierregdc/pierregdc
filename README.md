@@ -20,25 +20,26 @@ Passionné par l'IA, j'adore regarder les toutes dernières nouveautés, explore
 
 *Cliquez sur n'importe quel badge pour ouvrir directement l'outil !*
 
-#### 💬 Modèles & Assistants Conversationnels
+#### 💬 Modèles & Assistants
 <div align="center">
-  <a href="https://gemini.google.com" target="_blank"><img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
-  <a href="https://chatgpt.com" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
-  <a href="https://claude.ai" target="_blank"><img src="https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/></a>
-  <a href="https://www.perplexity.ai" target="_blank"><img src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/></a>
-  <a href="https://chat.mistral.ai" target="_blank"><img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral AI"/></a>
-  <a href="https://www.deepseek.com" target="_blank"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/></a>
-  <a href="https://kimi.moonshot.cn" target="_blank"><img src="https://img.shields.io/badge/Kimi%20AI-1E293B?style=for-the-badge&logo=target&logoColor=38BDF8" alt="Kimi AI"/></a>
+  <a href="https://gemini.google.com" target="_blank"><img src="assets/badges/gemini.svg" height="30" alt="Google Gemini"/></a>&nbsp;
+  <a href="https://chatgpt.com" target="_blank"><img src="assets/badges/chatgpt.svg" height="30" alt="ChatGPT"/></a>&nbsp;
+  <a href="https://claude.ai" target="_blank"><img src="assets/badges/claude.svg" height="30" alt="Claude AI"/></a>&nbsp;
+  <a href="https://www.perplexity.ai" target="_blank"><img src="assets/badges/perplexity.svg" height="30" alt="Perplexity"/></a>&nbsp;
+  <a href="https://chat.mistral.ai" target="_blank"><img src="assets/badges/mistral.svg" height="30" alt="Mistral AI"/></a>&nbsp;
+  <a href="https://www.deepseek.com" target="_blank"><img src="assets/badges/deepseek.svg" height="30" alt="DeepSeek"/></a>&nbsp;
+  <a href="https://kimi.moonshot.cn" target="_blank"><img src="assets/badges/kimi.svg" height="30" alt="Kimi AI"/></a>
 </div>
 
 <br/>
 
-#### 🎨 Création, Outils & Studios IA
+#### ⚡ Studios, Création & Environnements IA
 <div align="center">
-  <a href="https://aistudio.google.com" target="_blank"><img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/></a>
-  <a href="https://stitch.withgoogle.com" target="_blank"><img src="https://img.shields.io/badge/Google%20Stitch-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google Stitch"/></a>
-  <a href="https://www.canva.com" target="_blank"><img src="https://img.shields.io/badge/Canva%20Magic%20IA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Magic IA"/></a>
-  <a href="https://francestudent.com" target="_blank"><img src="https://img.shields.io/badge/FranceStudent%20AI-0055A5?style=for-the-badge&logo=sparkles&logoColor=white" alt="FranceStudent AI"/></a>
+  <a href="https://antigravity.google" target="_blank"><img src="assets/badges/antigravity.svg" height="30" alt="Google Antigravity"/></a>&nbsp;
+  <a href="https://aistudio.google.com" target="_blank"><img src="assets/badges/aistudio.svg" height="30" alt="Google AI Studio"/></a>&nbsp;
+  <a href="https://stitch.withgoogle.com" target="_blank"><img src="assets/badges/stitch.svg" height="30" alt="Google Stitch"/></a>&nbsp;
+  <a href="https://www.canva.com" target="_blank"><img src="assets/badges/canva.svg" height="30" alt="Canva Magic IA"/></a>&nbsp;
+  <a href="https://francestudent.com" target="_blank"><img src="assets/badges/francestudent.svg" height="30" alt="FranceStudent AI"/></a>
 </div>
 
 ---
