@@ -2,7 +2,7 @@
 
 # Salut, moi c'est Pierre
 
-### Étudiant en BTS SIO &nbsp;•&nbsp; Passionné d'IA &nbsp;•&nbsp; Var, France
+### Étudiant en BTS CRSA &nbsp;•&nbsp; Passionné d'IA &nbsp;•&nbsp; Var, France
 
 </div>
 
@@ -12,7 +12,7 @@
 
 Bienvenue sur mon profil ! 
 
-Je ne suis pas développeur de métier : je suis actuellement en **BTS SIO**, mais je suis passionné par l'intelligence artificielle et j'aimerais découvrir tout ce qu'on peut accomplir avec pour **aider d'autres personnes**. 
+Je ne suis pas développeur de métier : je suis actuellement en **BTS CRSA**, mais je suis passionné par l'intelligence artificielle et j'aimerais découvrir tout ce qu'on peut accomplir avec pour **aider d'autres personnes**. 
 
 J'adore suivre les dernières innovations, explorer de nouveaux cas d'usage et imaginer des projets interactifs, pourquoi pas ancrés dans le **Var en France** !
 
