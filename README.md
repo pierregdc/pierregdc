@@ -1,42 +1,62 @@
-# Salut, moi c'est Pierre 👋
-### 🚀 Curieux de tech & créateur de petits projets web
-
----
-
-### 🌟 À propos
-
-Bienvenue sur mon GitHub ! Touche-à-tout et passionné par le monde de la tech, j'aime tester de nouveaux outils, explorer des idées et concevoir des petits projets concrets pour le plaisir d'expérimenter.
-
-- 🕹️ **Créations interactives** : Développement de mini-jeux et d'interfaces web légères (HTML / CSS / JavaScript).
-- ⚡ **Veille & Pratique** : Toujours curieux de découvrir et tester les dernières technologies et innovations numériques.
-- ☀️ Basé dans le **Var, France**.
-
----
-
-### 🛠️ Outils & Technologies
-
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Salut,+moi+c'est+Pierre+👋;Étudiant+en+BTS+SIO+🎓;Passionné+par+l'Intelligence+Artificielle+🤖;Explorer,+apprendre+et+créer+pour+aider+✨" alt="Typing Animation Pierre" />
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br/>
 
+### 🌟 À propos de moi
+
+Bienvenue sur mon profil ! 
+
+Je ne suis pas développeur de métier : je suis actuellement en **BTS SIO** 🎓, mais j'adore l'intelligence artificielle et j'aimerais tellement découvrir tout ce que je peux faire avec pour **aider d'autres personnes**. 
+
+Passionné par l'IA, j'adore regarder les toutes dernières nouveautés, explorer de nouveaux cas d'usage et imaginer des projets interactifs, pourquoi pas basés sur le **Var en France** ☀️ !
+
+> 💡 *Toujours curieux de découvrir de nouveaux horizons et d'expérimenter les technologies de demain.*
+
+---
+
+### 🤖 Ma Galaxie d'IA & Outils du quotidien
+
+*Cliquez sur n'importe quel badge pour ouvrir directement l'outil !*
+
+#### 💬 Modèles & Assistants Conversationnels
+<div align="center">
+  <a href="https://gemini.google.com" target="_blank"><img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
+  <a href="https://chatgpt.com" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
+  <a href="https://claude.ai" target="_blank"><img src="https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/></a>
+  <a href="https://www.perplexity.ai" target="_blank"><img src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/></a>
+  <a href="https://chat.mistral.ai" target="_blank"><img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral AI"/></a>
+  <a href="https://www.deepseek.com" target="_blank"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/></a>
+  <a href="https://kimi.moonshot.cn" target="_blank"><img src="https://img.shields.io/badge/Kimi%20AI-1E293B?style=for-the-badge&logo=target&logoColor=38BDF8" alt="Kimi AI"/></a>
+</div>
+
+<br/>
+
+#### 🎨 Création, Outils & Studios IA
+<div align="center">
+  <a href="https://aistudio.google.com" target="_blank"><img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/></a>
+  <a href="https://stitch.withgoogle.com" target="_blank"><img src="https://img.shields.io/badge/Google%20Stitch-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google Stitch"/></a>
+  <a href="https://www.canva.com" target="_blank"><img src="https://img.shields.io/badge/Canva%20Magic%20IA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Magic IA"/></a>
+  <a href="https://francestudent.com" target="_blank"><img src="https://img.shields.io/badge/FranceStudent%20AI-0055A5?style=for-the-badge&logo=sparkles&logoColor=white" alt="FranceStudent AI"/></a>
 </div>
 
 ---
 
-### 🚀 Mes Projets
+### 💻 Technologies & Environnement Web
 
-- 🏎️ **[MiniGames_Voiture](https://github.com/pierregdc/MiniGames_Voiture)** : Projet de mini-jeux de voitures interactifs jouables dans le navigateur.
+<div align="center">
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
 
 ---
 
-### 📊 Activité GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierregdc&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26" height="150" alt="Stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierregdc&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" height="150" alt="Langages" />
+  <h3>🚀 Projets à venir</h3>
+  <p><i>De nouvelles créations et expérimentations interactives arrivent très bientôt ici !</i></p>
 </div>
